@@ -1,0 +1,2 @@
+-r base.txt
+tensorflow==1.8.0
