@@ -70,3 +70,12 @@ python object_detection/export_inference_graph.py \
     --output_directory=${EXPORT_DIR}
 
 ```
+
+## References
+- [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://arxiv.org/abs/1506.01497)
+- [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
+- [A systematic study of the class imbalance problem in convolutional neural networks](https://arxiv.org/abs/1710.05381)
+- [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325)
+- [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)
+- [Faster R-CNN Explained](https://medium.com/@smallfishbigsea/faster-r-cnn-explained-864d4fb7e3f8)
+- [Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)
