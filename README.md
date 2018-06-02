@@ -6,7 +6,7 @@
 - [x] Train models
 - [x] Save results
 - [x] Write readme with results
-- [ ] Add training plots to readmy
+- [ ] Add training plots to readme
 - [ ] Tests
 - [ ] CI/CD
 - [ ] API
