@@ -1,14 +1,17 @@
 # logos.tensorflow
 ## TODO
 
-- [ ] Project setup
-- [ ] Data Preprocessing
-- [ ] Train models
-- [ ] Save results
-- [ ] Write readme with results
+- [x] Project setup
+- [x] Data Preprocessing
+- [x] Train models
+- [x] Save results
+- [x] Write readme with results
+- [ ] Add training plots to readmy
 - [ ] Tests
 - [ ] CI/CD
 - [ ] API
+- [ ] Deploy
+- [ ] Train with distractor logo images
 
 
 ## Setup Project
