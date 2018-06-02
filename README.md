@@ -1,4 +1,8 @@
 # logos.tensorflow
+
+## The Problem
+We would like to detect brand logos in an image.
+
 ## TODO
 
 - [x] Project setup
