@@ -76,6 +76,7 @@ python object_detection/export_inference_graph.py \
 ```
 
 ## References
+- [Speed/accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/abs/1611.10012)
 - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://arxiv.org/abs/1506.01497)
 - [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 - [A systematic study of the class imbalance problem in convolutional neural networks](https://arxiv.org/abs/1710.05381)
